@@ -1,4 +1,4 @@
-let canvas = document.getElementById("canvas"); //zeichenElement auf der HTML Seite
+let canvas = document.getElementById("canvas"); //zeichnet Element auf der HTML Seite
 let ctx = canvas.getContext("2d");  //zeichenstift
 let cols = 30;  //spalten
 let rows = 30;  //reihen
